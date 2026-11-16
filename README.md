@@ -49,12 +49,13 @@ pkg install git -y
 
 Clone this repository:
 
-git clone httpsgit clone https://github.com/limbubib710-arch/
+git clone https://github.com/limbubib710-arch/Termux-theme.git
+
 
 
 Open project directory:
 
-cd YOUR_PROJECT_FOLDER
+cd Termux-theme
 
 Run installer:
 
